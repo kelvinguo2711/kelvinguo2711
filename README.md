@@ -26,7 +26,7 @@ I don't just want to show charts or queries. I aim to understand what happened, 
 
 ---
 ## 🛠️ Skills & Tools
-`Looker` - `Google Sheets` - `SQL` - `Tableau` - `Excel` - `GA4`
+`Looker` - `Google Sheets` - `SQL` - `Tableau` - `Excel` - `GA4` - 'Python[learning]'
 
 ---
 ##📂 Featured Projects
@@ -34,7 +34,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 ## Table of Contents
 - Google Sheets (Data Cleaning & Analysis)
-
+- Python
 ---
 ## Google Sheets
 ### 📦GameZone Orders eCommerce
@@ -50,3 +50,27 @@ The analysis focuses on identifying significant changes in return behavior and t
 
 #### Skills:
 Data Cleaning · Data Quality · Exploratory Data Analysis (EDA) · Business Analysis · Trend Analysis · Return Rate Analysis · Google Sheets · Data Visualization
+
+##Python
+###Marketing KPI calculation
+[Project Link →](https://github.com/kelvinguo2711/python-marketing-kpi-calculator)
+
+#### Goal
+A beginner-friendly Python project that calculates key marketing and sales funnel KPIs from basic campaign performance data.
+
+This project was built as my first Python portfolio project to practice Python fundamentals while applying them to a real-world marketing analytics use case.
+
+### Project Overview
+The Marketing KPI Calculator takes basic marketing performance data and calculates several commonly used marketing and sales funnel metrics:
+
+Cost per Lead (CPL)
+Lead → Booked Meeting Conversion Rate
+Meeting → Deal Conversion Rate
+Lead → Deal Conversion Rate
+Customer Acquisition Cost (CAC)
+Return on Ad Spend (ROAS)
+Return on Investment (ROI)
+The program accepts user input, performs the calculations, handles invalid calculation scenarios, and displays the results in a readable format.
+
+####
+Python . Pycharm
