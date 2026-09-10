@@ -51,6 +51,7 @@ The analysis focuses on identifying significant changes in return behavior and t
 #### Skills:
 Data Cleaning · Data Quality · Exploratory Data Analysis (EDA) · Business Analysis · Trend Analysis · Return Rate Analysis · Google Sheets · Data Visualization
 
+---
 ##Python
 ###Marketing KPI calculation
 [Project Link →](https://github.com/kelvinguo2711/python-marketing-kpi-calculator)
