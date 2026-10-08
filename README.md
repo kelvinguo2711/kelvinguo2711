@@ -2,55 +2,117 @@
 
 I'm a **Data Analyst** who enjoys turning raw data into insights that help answer real business questions.
 
-In my professional work, I primarily use **Looker and Google Sheets** to analyze marketing performance, sales funnels, customer behavior, and business KPIs. However, I don't want my analytical skills to be limited to the tools I use day to day.
+In my professional work, I primarily use **Looker and Google Sheets** to analyze marketing performance, sales funnels, customer behavior, and business KPIs. I use data to identify trends, understand performance drivers, and support data-driven business decisions.
 
-That's why I use this GitHub as my **data analytics playground** — a place where I learn, experiment, and build projects that expand my analytical toolkit.
+I also use GitHub as my **data analytics playground** — a place where I learn, experiment, and build projects that expand my analytical toolkit beyond the tools I use day to day.
 
-Here, you'll find a combination of:
+My projects combine practical business analysis with continuous learning in **SQL, Python, Power BI, Tableau, and data analytics**.
 
-### 📊 Professional-Style Projects
+## 📊 What You'll Find Here
 
-Projects inspired by the types of business problems I work with, including marketing performance, sales funnel analysis, customer segmentation, and business KPI analysis.
+### 💼 Professional-Style Analytics
 
-### 🧪 Independent Projects
+Projects inspired by the types of business problems I work with, including:
 
-Analyses built using open-source datasets to explore different industries, business problems, and analytical approaches.
+- Marketing performance analysis
+- Sales funnel analysis
+- Customer segmentation
+- KPI analysis
+- Trend and performance analysis
+- Business reporting and dashboards
 
-### 💻 Self-Learning & New Tools
+### 🧪 Independent Data Projects
 
-Projects where I practice tools and technologies outside my day-to-day work, including **SQL, Python, Tableau, and Power BI**, while continuing to expand my analytics toolkit.
+Analyses built using open-source datasets to explore different industries, business questions, and analytical approaches.
+
+### 💻 SQL & Data Analytics
+
+Projects where I practice and apply SQL skills including:
+
+- Data exploration
+- Joins and aggregations
+- CTEs
+- Subqueries
+- Window functions
+- Customer analysis
+- Sales analysis
+- Time-based analysis
+- Business KPI analysis
 
 ### 🔍 From Data to Decisions
 
-I don't just want to show charts or queries. I aim to understand **what happened, why it happened, and what the data suggests we should do next.**
+I don't just want to show charts or queries.
+
+I aim to understand:
+
+**What happened → Why it happened → What the data suggests we should do next**
 
 ---
 
 ## 🛠️ Skills & Tools
 
-**Analytics & BI**
+### Analytics & BI
+
 `Looker` · `Google Sheets` · `Excel` · `Tableau` · `Power BI`
 
-**Marketing Analytics**
+### Marketing Analytics
+
 `GA4` · `Marketing Funnel Analysis` · `Campaign Analysis` · `Customer Segmentation` · `KPI Analysis`
 
-**Data & Programming**
-`SQL` · `Python (Learning)` · `Power Query` · `DAX`
+### SQL & Data
+
+`SQL` · `PostgreSQL` · `CTEs` · `Window Functions` · `Data Analysis` · `Data Exploration`
+
+### Data & Programming
+
+`Python (Learning)` · `Power Query` · `DAX`
 
 ---
 
 # 📂 Featured Projects
 
-Welcome to my data portfolio! Here, I document projects that demonstrate my approach to **data cleaning, analysis, visualization, and business problem-solving**.
+Welcome to my data portfolio! Here, I document projects that demonstrate my approach to **data cleaning, analysis, visualization, SQL, and business problem-solving**.
 
-## Table of Contents
+## 🐘 PostgreSQL — Brazilian E-Commerce Analysis
 
-* [Google Sheets](#google-sheets)
-* [Python](#python)
+[Project Link →](https://github.com/kelvinguo2711/olist-postgresql-ecommerce-analysis-)
+
+### Goal
+
+Analyze e-commerce sales and customer behavior using PostgreSQL to answer practical business questions around revenue, customer purchasing behavior, product performance, seller performance, and order activity.
+
+### Project Overview
+
+This project uses the **Brazilian E-Commerce Public Dataset by Olist**, containing approximately 100,000 orders.
+
+The analysis covers:
+
+- Data exploration and validation
+- Sales and revenue analysis
+- Month-over-month revenue analysis
+- Product category performance
+- Seller revenue analysis
+- Customer purchasing behavior
+- Repeat vs. one-time customers
+- Time to second purchase
+- Advanced SQL analysis using CTEs and window functions
+
+### SQL Skills
+
+`PostgreSQL` · `Joins` · `Aggregations` · `CTEs` · `Subqueries` · `Window Functions` · `CASE` · `Date/Time Analysis` · `Customer Analysis` · `Business Analysis`
+
+### Key Questions
+
+- What is the total revenue generated?
+- How does revenue change month over month?
+- Which product categories generate the most revenue?
+- Which sellers generate the most revenue?
+- Who are the highest-value customers?
+- What percentage of customers are repeat customers?
+- How much revenue comes from repeat vs. one-time customers?
+- How long does it take customers to make a second purchase?
 
 ---
-
-# Google Sheets
 
 ## 📦 GameZone Orders eCommerce
 
@@ -66,21 +128,19 @@ An end-to-end analysis of **eCommerce orders** from January 2019 to February 202
 
 The project involved:
 
-* Cleaning and standardizing raw datasets
-* Investigating data quality issues
-* Performing exploratory data analysis (EDA)
-* Analyzing return patterns across products and time periods
-* Examining return behavior across regions and marketing channels
-* Identifying significant changes in return rates
-* Translating analytical findings into potential business insights and recommendations
+- Cleaning and standardizing raw datasets
+- Investigating data quality issues
+- Performing exploratory data analysis
+- Analyzing return patterns across products and time periods
+- Examining return behavior across regions and marketing channels
+- Identifying significant changes in return rates
+- Translating analytical findings into potential business insights and recommendations
 
 ### Skills
 
 `Data Cleaning` · `Data Quality` · `EDA` · `Business Analysis` · `Trend Analysis` · `Return Rate Analysis` · `Google Sheets` · `Data Visualization`
 
 ---
-
-# Python
 
 ## 📈 Marketing KPI Calculator
 
@@ -90,21 +150,17 @@ The project involved:
 
 A beginner-friendly Python project that calculates key marketing and sales funnel KPIs from basic campaign performance data.
 
-This project was built as my **first Python portfolio project** to practice Python fundamentals while applying them to a real-world marketing analytics use case.
+This was my **first Python portfolio project**, built to practice Python fundamentals while applying them to a real-world marketing analytics use case.
 
-### Project Overview
+### Metrics
 
-The Marketing KPI Calculator takes basic marketing performance data and calculates several commonly used marketing and sales funnel metrics:
-
-* Cost per Lead (CPL)
-* Lead → Booked Meeting Conversion Rate
-* Meeting → Deal Conversion Rate
-* Lead → Deal Conversion Rate
-* Customer Acquisition Cost (CAC)
-* Return on Ad Spend (ROAS)
-* Return on Investment (ROI)
-
-The program accepts user input, performs the calculations, handles invalid calculation scenarios, and displays the results in a readable format.
+- Cost per Lead (CPL)
+- Lead → Booked Meeting Conversion Rate
+- Meeting → Deal Conversion Rate
+- Lead → Deal Conversion Rate
+- Customer Acquisition Cost (CAC)
+- Return on Ad Spend (ROAS)
+- Return on Investment (ROI)
 
 ### Skills & Tools
 
@@ -116,13 +172,13 @@ The program accepts user input, performs the calculations, handles invalid calcu
 
 I'm continuously expanding my technical toolkit and currently focusing on:
 
-*  **Python for Data Analysis**
-*  **SQL**
-*  **Power BI**
-*  **DAX**
-*  **Power Query**
-*  **BigQuery**
-*  **Data Modeling & ETL**
+- **SQL & PostgreSQL**
+- **Python for Data Analysis**
+- **Power BI**
+- **DAX**
+- **Power Query**
+- **BigQuery**
+- **Data Modeling & ETL**
 
 ---
 
@@ -130,7 +186,9 @@ I'm continuously expanding my technical toolkit and currently focusing on:
 
 **Business Question → Data → Analysis → Insight → Action**
 
-I believe good analytics is not just about producing dashboards or writing queries. The goal is to connect data with business decisions and communicate insights clearly to stakeholders.
+I believe good analytics is not just about producing dashboards or writing queries.
+
+The goal is to connect data with business decisions, identify meaningful patterns, and communicate insights clearly to stakeholders.
 
 ---
 
